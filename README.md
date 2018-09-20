@@ -1,5 +1,7 @@
 # ElixirAuthTokenStoreExample
 
+![TravisCI badge](https://api.travis-ci.org/joshmcarthur/elixir-auth-token-store-example.svg?branch=master)
+
 An implementation of a stateful auth token store in Elixir
 https://www.joshmcarthur.com/til/2018/09/19/an-access-token-state-store-in-elixir.html
 
